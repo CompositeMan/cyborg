@@ -1,0 +1,4 @@
+{
+        "python.defaultInterpreterPath": "/cyborg/bin/python3.9",
+        "python.terminal.activateEnvironment": true
+}
